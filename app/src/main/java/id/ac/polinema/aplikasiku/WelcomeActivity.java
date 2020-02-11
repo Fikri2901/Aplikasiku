@@ -19,4 +19,5 @@ public class WelcomeActivity extends AppCompatActivity {
 		startActivity(intent);
 		finish();
 	}
+
 }
